@@ -1,0 +1,4 @@
+Data,Tipo,Conto,Beneficiario,Importo,Valuta,Categoria,Sotto-Categoria,Note
+2024-01-05,Withdrawal,Intesa,None,-20.00,EUR,Cibo:Mangiare Fuori,Cena,Bar Grillo
+2024-01-10,Transfer,Intesa,< Casa,100.00,EUR,Varie,,test
+2024-01-10,Deposit,Intesa,None,432.00,EUR,Spese mediche,Salute digitale,test prelievo
